@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hieplb071191.github.io/pure-html-deletion-page",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -11,7 +10,6 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "vite build",
-    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
