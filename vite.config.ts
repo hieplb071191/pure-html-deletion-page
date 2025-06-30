@@ -9,6 +9,7 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
+  base: '/pure-html-deletion-page/',
   plugins: [
     react(),
     mode === 'development' &&
